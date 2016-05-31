@@ -5,4 +5,7 @@
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
 
+    <!-- The default forecast text for the list view. -->
+    <string name="default_forecast">Today \u2014 Sunny \u2014 88 / 63</string>
+
 </resources>
